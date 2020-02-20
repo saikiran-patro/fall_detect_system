@@ -13,7 +13,7 @@
         }
        h1
         {
-        coloryellow;
+        color:yellow;
         }
     
    </style>
