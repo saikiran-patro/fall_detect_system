@@ -8,7 +8,7 @@
     body
         {
             background-attachment: fixed;
-            background:navy;
+            background:slategray;
         background-attachment: fixed;
         }
        h1
