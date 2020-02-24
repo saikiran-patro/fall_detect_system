@@ -8,16 +8,16 @@
     body
         {
             background-attachment: fixed;
-            background:lightskyblue;
+            background:navy;
         background-attachment: fixed;
         }
        h1
         {
-        color:black;
+        color:whitesmoke;
         }
         p
         {
-        color:indianred;
+        color:yellow;
         }
     
    </style>
