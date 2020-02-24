@@ -13,12 +13,12 @@
         }
        h1
         {
-        color:whitesmoke;
+        color:black;
         }
         p
         {
-        color:yellow;
-        size:15px;
+        color:black;
+        size:20px;
         }
     
    </style>
