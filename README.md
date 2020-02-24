@@ -31,6 +31,7 @@
    <br/><p><strong>It Looks like you've taken a hard fall.?</strong></p>
     <button><a href="https://maker.ifttt.com/trigger/FALL_DETECT/with/key/gF4v3pSdynTAT_cnYUyKz_8n49JJl_i13gatcPmq6aq" target="_blank" style="color:green;">I'M Okay!</a></button><br/>
    <div>
+    <br/>
     <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/applewatch/watchos5-1-emergency-services-fall-alert.jpg" width="20px" height="20px"/>
     </div>
 </body>
